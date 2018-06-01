@@ -20,4 +20,5 @@ func hanoi(n int) {
 
 func main() {
 	hanoi(3)
+	fmt.Println("JEREMY")
 }
